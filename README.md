@@ -1,10 +1,6 @@
 ## Project Overview
 
-Decision-making in early-stage design often lacks robust methods for evaluating circularity, resulting in outcomes that may not fully realize their potential for efficiency. This research presents the development of a computational tool or “Intelligent Design Assistant” that employs Graph Neural Networks (GNNs) to deliver real-time assessments of life-cycle performance and material usage for modular designs. By utilizing user-defined, simplified early-stage representations, the tool provides actionable insights into both design and environmental performance.
-
-A central point of this approach is the adoption of a graph-based framework where each building module is represented as a node, and its interactions with neighboring modules are captured through connecting edges. This framework not only reflects the intrinsic properties of each module, but it also dynamically evaluates how a module’s characteristics evolve based on its spatial and functional relationships. Although the study focuses on laminated veneer lumber (LVL)—selected for its extensive environmental data—the scalable machine learning model is designed to be applicable to a wide range of construction methods and materials.
-
-Through experimental validation, the integration of GNNs has been shown to enhance early design decision-making by providing real-time feedback. The model achieves an accuracy of approximately 85% -90% under conditions similar to the training data. This capability enables designers, clients, and other stakeholders to engage in informed discussions about design modifications and circularity measures well before detailed construction planning begins, thereby promoting more sustainable and circular design practices across the industry.
+Decision-making in early-stage design often lacks robust methods for evaluating circularity, resulting in outcomes that may not fully realize their potential for efficiency. This research presents the development of a computational tool or “Intelligent Design Assistant” that employs Graph Neural Networks (GNNs) to deliver real-time assessments of life-cycle performance and material usage for modular designs. By utilizing user-defined, simplified early-stage representations, the tool provides actionable insights into both design and environmental performance. A central point of this approach is the adoption of a graph-based framework where each building module is represented as a node, and its interactions with neighboring modules are captured through connecting edges. This framework not only reflects the intrinsic properties of each module, but it also dynamically evaluates how a module’s characteristics evolve based on its spatial and functional relationships. Although the study focuses on laminated veneer lumber (LVL)—selected for its extensive environmental data—the scalable machine learning model is designed to be applicable to a wide range of construction methods and materials. Through experimental validation, the integration of GNNs has been shown to enhance early design decision-making by providing real-time feedback. The model achieves an accuracy of approximately 85% -90% under conditions similar to the training data. This capability enables designers, clients, and other stakeholders to engage in informed discussions about design modifications and circularity measures well before detailed construction planning begins, thereby promoting more sustainable and circular design practices across the industry.
 
 **Make sure you check the requirements**
 [Requirements](https://github.com/SimosManiatis/multi-robot-assembly/blob/main/requirements.txt)
@@ -20,12 +16,10 @@ Through experimental validation, the integration of GNNs has been shown to enhan
 ## Repository Structure
 
 The repository is organized as follows:
-
-- `src/`: Contains the source code for the project  
-  - `ansys/`: Contains simulation files and data on the topological optimisation and detailed analysis of node geometry
-- `examples/`: Example files for assembly sequence and robot prototype
-- `data/`: Datasets of cutting patterns and structural design
-- `gh/`: Grasshopper files for robot prototype and structural design / assembly sequence
+- `src/`: Contains the source code for the Graph Neural Network
+- `demoFiles/`: Example files for the showcase of the Grasshopper Components
+- `dataset/`: The data the neural network was trained on (ID + OOD).
+- `gh/`: Grasshopper files which contain the the developed components of the plugin.
 
 This repository provides access to the three main components of the project:
 
