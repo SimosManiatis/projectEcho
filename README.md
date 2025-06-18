@@ -19,7 +19,6 @@ The repository is organized as follows:
 - `src/`: Contains the source code for the Graph Neural Network
 - `demoFiles/`: Example files for the showcase of the Grasshopper Components
 - `dataset/`: The data the neural network was trained on (ID + OOD).
-- `gh/`: Grasshopper files which contain the the developed components of the plugin.
 
 ---
 
