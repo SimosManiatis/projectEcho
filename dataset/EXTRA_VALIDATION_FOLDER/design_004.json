@@ -1,0 +1,22 @@
+{
+    "design_id": "design_004",
+    "nodes": [
+        {
+            "NodeID": "design_004_brep_0010",
+            "length_m": 6.408,
+            "width_m": 3.358,
+            "lengthkey": 10.0,
+            "widthkey": 5.0,
+            "DoorCount": 1,
+            "WindowCount": 3,
+            "OpeningArea": 7.18,
+            "ObjectCount": 0,
+            "ObjectVolume": 0.0,
+            "AreaAfterOpenings": 97.48,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}
