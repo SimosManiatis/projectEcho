@@ -1,0 +1,22 @@
+{
+    "design_id": "design_230",
+    "nodes": [
+        {
+            "NodeID": "design_230_brep_0051",
+            "length_m": 4.578,
+            "width_m": 2.594,
+            "lengthkey": 7.0,
+            "widthkey": 3.5,
+            "DoorCount": 0,
+            "WindowCount": 1,
+            "OpeningArea": 0.662,
+            "ObjectCount": 94,
+            "ObjectVolume": 3.167,
+            "AreaAfterOpenings": 68.344,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}

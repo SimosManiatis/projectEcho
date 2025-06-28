@@ -1,0 +1,22 @@
+{
+    "design_id": "design_290",
+    "nodes": [
+        {
+            "NodeID": "design_290_brep_0111",
+            "length_m": 4.424,
+            "width_m": 3.358,
+            "lengthkey": 6.5,
+            "widthkey": 5.0,
+            "DoorCount": 0,
+            "WindowCount": 2,
+            "OpeningArea": 2.24,
+            "ObjectCount": 108,
+            "ObjectVolume": 3.862,
+            "AreaAfterOpenings": 76.576,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}

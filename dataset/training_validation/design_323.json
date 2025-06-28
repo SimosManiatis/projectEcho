@@ -1,0 +1,22 @@
+{
+    "design_id": "design_323",
+    "nodes": [
+        {
+            "NodeID": "design_323_brep_0144",
+            "length_m": 3.968,
+            "width_m": 3.204,
+            "lengthkey": 6.0,
+            "widthkey": 4.5,
+            "DoorCount": 0,
+            "WindowCount": 0,
+            "OpeningArea": 0.0,
+            "ObjectCount": 83,
+            "ObjectVolume": 3.014,
+            "AreaAfterOpenings": 70.682,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}

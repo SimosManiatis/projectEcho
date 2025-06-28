@@ -1,0 +1,22 @@
+{
+    "design_id": "design_285",
+    "nodes": [
+        {
+            "NodeID": "design_285_brep_0106",
+            "length_m": 3.814,
+            "width_m": 3.358,
+            "lengthkey": 5.5,
+            "widthkey": 5.0,
+            "DoorCount": 1,
+            "WindowCount": 2,
+            "OpeningArea": 4.707,
+            "ObjectCount": 100,
+            "ObjectVolume": 3.287,
+            "AreaAfterOpenings": 66.163,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}

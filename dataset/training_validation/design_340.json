@@ -1,0 +1,87 @@
+{
+    "design_id": "design_340",
+    "nodes": [
+        {
+            "NodeID": "design_340_brep_0005",
+            "length_m": 1.528,
+            "width_m": 1.374,
+            "lengthkey": 2.0,
+            "widthkey": 1.5,
+            "DoorCount": 0,
+            "WindowCount": 0,
+            "OpeningArea": 0.0,
+            "ObjectCount": 38,
+            "ObjectVolume": 0.852,
+            "AreaAfterOpenings": 22.511,
+            "SideIntersectionArea": 9.156,
+            "connectivity": [
+                "design_340_brep_0006",
+                "design_340_brep_0007",
+                "design_340_brep_0008"
+            ],
+            "Level": 0,
+            "total_modules": 4
+        },
+        {
+            "NodeID": "design_340_brep_0006",
+            "length_m": 3.968,
+            "width_m": 3.358,
+            "lengthkey": 6.0,
+            "widthkey": 5.0,
+            "DoorCount": 0,
+            "WindowCount": 0,
+            "OpeningArea": 0.0,
+            "ObjectCount": 65,
+            "ObjectVolume": 2.691,
+            "AreaAfterOpenings": 72.876,
+            "SideIntersectionArea": 16.854,
+            "connectivity": [
+                "design_340_brep_0005",
+                "design_340_brep_0008"
+            ],
+            "Level": 0,
+            "total_modules": 4
+        },
+        {
+            "NodeID": "design_340_brep_0008",
+            "length_m": 4.578,
+            "width_m": 1.528,
+            "lengthkey": 7.0,
+            "widthkey": 2.0,
+            "DoorCount": 0,
+            "WindowCount": 0,
+            "OpeningArea": 0.0,
+            "ObjectCount": 44,
+            "ObjectVolume": 1.714,
+            "AreaAfterOpenings": 52.519,
+            "SideIntersectionArea": 19.264,
+            "connectivity": [
+                "design_340_brep_0005",
+                "design_340_brep_0006",
+                "design_340_brep_0007"
+            ],
+            "Level": 0,
+            "total_modules": 4
+        },
+        {
+            "NodeID": "design_340_brep_0007",
+            "length_m": 4.578,
+            "width_m": 1.528,
+            "lengthkey": 7.0,
+            "widthkey": 2.0,
+            "DoorCount": 0,
+            "WindowCount": 0,
+            "OpeningArea": 0.0,
+            "ObjectCount": 58,
+            "ObjectVolume": 2.063,
+            "AreaAfterOpenings": 52.519,
+            "SideIntersectionArea": 7.717,
+            "connectivity": [
+                "design_340_brep_0005",
+                "design_340_brep_0008"
+            ],
+            "Level": 0,
+            "total_modules": 4
+        }
+    ]
+}

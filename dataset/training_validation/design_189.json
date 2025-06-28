@@ -1,0 +1,22 @@
+{
+    "design_id": "design_189",
+    "nodes": [
+        {
+            "NodeID": "design_189_brep_0010",
+            "length_m": 3.968,
+            "width_m": 2.594,
+            "lengthkey": 6.0,
+            "widthkey": 3.5,
+            "DoorCount": 1,
+            "WindowCount": 1,
+            "OpeningArea": 5.73,
+            "ObjectCount": 95,
+            "ObjectVolume": 3.08,
+            "AreaAfterOpenings": 56.262,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}

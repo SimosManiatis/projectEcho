@@ -1,0 +1,133 @@
+{
+    "design_id": "design_348",
+    "nodes": [
+        {
+            "NodeID": "design_348_brep_0035",
+            "length_m": 1.984,
+            "width_m": 3.204,
+            "lengthkey": 2.5,
+            "widthkey": 4.5,
+            "DoorCount": 1,
+            "WindowCount": 0,
+            "OpeningArea": 2.455,
+            "ObjectCount": 68,
+            "ObjectVolume": 1.92,
+            "AreaAfterOpenings": 42.995,
+            "SideIntersectionArea": 6.26,
+            "connectivity": [
+                "design_348_brep_0045",
+                "design_348_brep_0046"
+            ],
+            "Level": 0,
+            "total_modules": 6
+        },
+        {
+            "NodeID": "design_348_brep_0045",
+            "length_m": 3.968,
+            "width_m": 3.204,
+            "lengthkey": 6.0,
+            "widthkey": 4.5,
+            "DoorCount": 0,
+            "WindowCount": 2,
+            "OpeningArea": 2.995,
+            "ObjectCount": 90,
+            "ObjectVolume": 3.129,
+            "AreaAfterOpenings": 67.687,
+            "SideIntersectionArea": 19.459,
+            "connectivity": [
+                "design_348_brep_0035",
+                "design_348_brep_0043",
+                "design_348_brep_0044",
+                "design_348_brep_0046"
+            ],
+            "Level": 1,
+            "total_modules": 6
+        },
+        {
+            "NodeID": "design_348_brep_0043",
+            "length_m": 5.798,
+            "width_m": 2.138,
+            "lengthkey": 9.0,
+            "widthkey": 3.0,
+            "DoorCount": 1,
+            "WindowCount": 3,
+            "OpeningArea": 9.217,
+            "ObjectCount": 93,
+            "ObjectVolume": 3.425,
+            "AreaAfterOpenings": 65.651,
+            "SideIntersectionArea": 19.142,
+            "connectivity": [
+                "design_348_brep_0042",
+                "design_348_brep_0044",
+                "design_348_brep_0045",
+                "design_348_brep_0046"
+            ],
+            "Level": 1,
+            "total_modules": 6
+        },
+        {
+            "NodeID": "design_348_brep_0042",
+            "length_m": 1.984,
+            "width_m": 3.204,
+            "lengthkey": 2.5,
+            "widthkey": 4.5,
+            "DoorCount": 1,
+            "WindowCount": 0,
+            "OpeningArea": 2.455,
+            "ObjectCount": 79,
+            "ObjectVolume": 2.022,
+            "AreaAfterOpenings": 42.995,
+            "SideIntersectionArea": 6.745,
+            "connectivity": [
+                "design_348_brep_0043",
+                "design_348_brep_0044"
+            ],
+            "Level": 0,
+            "total_modules": 6
+        },
+        {
+            "NodeID": "design_348_brep_0044",
+            "length_m": 5.798,
+            "width_m": 2.138,
+            "lengthkey": 9.0,
+            "widthkey": 3.0,
+            "DoorCount": 1,
+            "WindowCount": 1,
+            "OpeningArea": 3.319,
+            "ObjectCount": 62,
+            "ObjectVolume": 2.435,
+            "AreaAfterOpenings": 71.55,
+            "SideIntersectionArea": 25.887,
+            "connectivity": [
+                "design_348_brep_0042",
+                "design_348_brep_0043",
+                "design_348_brep_0045",
+                "design_348_brep_0046"
+            ],
+            "Level": 0,
+            "total_modules": 6
+        },
+        {
+            "NodeID": "design_348_brep_0046",
+            "length_m": 3.968,
+            "width_m": 3.204,
+            "lengthkey": 6.0,
+            "widthkey": 4.5,
+            "DoorCount": 1,
+            "WindowCount": 0,
+            "OpeningArea": 2.455,
+            "ObjectCount": 90,
+            "ObjectVolume": 2.72,
+            "AreaAfterOpenings": 68.227,
+            "SideIntersectionArea": 25.718,
+            "connectivity": [
+                "design_348_brep_0035",
+                "design_348_brep_0043",
+                "design_348_brep_0044",
+                "design_348_brep_0045"
+            ],
+            "Level": 0,
+            "total_modules": 6
+        }
+    ]
+}

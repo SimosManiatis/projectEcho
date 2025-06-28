@@ -1,0 +1,43 @@
+{
+    "design_id": "design_029",
+    "nodes": [
+        {
+            "NodeID": "design_029_brep_0056",
+            "length_m": 5.798,
+            "width_m": 3.204,
+            "lengthkey": 9.0,
+            "widthkey": 4.5,
+            "DoorCount": 1,
+            "WindowCount": 1,
+            "OpeningArea": 4.97,
+            "ObjectCount": 113,
+            "ObjectVolume": 4.3,
+            "AreaAfterOpenings": 88.986,
+            "SideIntersectionArea": 4.821,
+            "connectivity": [
+                "design_029_brep_0057"
+            ],
+            "Level": 0,
+            "total_modules": 2
+        },
+        {
+            "NodeID": "design_029_brep_0057",
+            "length_m": 1.528,
+            "width_m": 1.528,
+            "lengthkey": 2.0,
+            "widthkey": 2.0,
+            "DoorCount": 0,
+            "WindowCount": 0,
+            "OpeningArea": 0.0,
+            "ObjectCount": 108,
+            "ObjectVolume": 3.915,
+            "AreaAfterOpenings": 23.953,
+            "SideIntersectionArea": 4.821,
+            "connectivity": [
+                "design_029_brep_0056"
+            ],
+            "Level": 0,
+            "total_modules": 2
+        }
+    ]
+}

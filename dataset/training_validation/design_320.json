@@ -1,0 +1,22 @@
+{
+    "design_id": "design_320",
+    "nodes": [
+        {
+            "NodeID": "design_320_brep_0141",
+            "length_m": 3.814,
+            "width_m": 2.594,
+            "lengthkey": 5.5,
+            "widthkey": 3.5,
+            "DoorCount": 1,
+            "WindowCount": 0,
+            "OpeningArea": 2.455,
+            "ObjectCount": 86,
+            "ObjectVolume": 2.794,
+            "AreaAfterOpenings": 57.767,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}

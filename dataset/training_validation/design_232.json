@@ -1,0 +1,22 @@
+{
+    "design_id": "design_232",
+    "nodes": [
+        {
+            "NodeID": "design_232_brep_0053",
+            "length_m": 4.424,
+            "width_m": 3.204,
+            "lengthkey": 6.5,
+            "widthkey": 4.5,
+            "DoorCount": 1,
+            "WindowCount": 3,
+            "OpeningArea": 6.849,
+            "ObjectCount": 106,
+            "ObjectVolume": 3.632,
+            "AreaAfterOpenings": 69.633,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}

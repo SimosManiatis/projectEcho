@@ -1,0 +1,22 @@
+{
+    "design_id": "design_311",
+    "nodes": [
+        {
+            "NodeID": "design_311_brep_0132",
+            "length_m": 4.424,
+            "width_m": 3.204,
+            "lengthkey": 6.5,
+            "widthkey": 4.5,
+            "DoorCount": 1,
+            "WindowCount": 0,
+            "OpeningArea": 2.455,
+            "ObjectCount": 90,
+            "ObjectVolume": 3.397,
+            "AreaAfterOpenings": 74.027,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}

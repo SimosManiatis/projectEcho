@@ -1,0 +1,22 @@
+{
+    "design_id": "design_333",
+    "nodes": [
+        {
+            "NodeID": "design_333_brep_0154",
+            "length_m": 4.424,
+            "width_m": 3.204,
+            "lengthkey": 6.5,
+            "widthkey": 4.5,
+            "DoorCount": 0,
+            "WindowCount": 0,
+            "OpeningArea": 0.0,
+            "ObjectCount": 85,
+            "ObjectVolume": 3.253,
+            "AreaAfterOpenings": 76.482,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}

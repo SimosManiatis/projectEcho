@@ -1,0 +1,22 @@
+{
+    "design_id": "design_256",
+    "nodes": [
+        {
+            "NodeID": "design_256_brep_0077",
+            "length_m": 4.578,
+            "width_m": 2.748,
+            "lengthkey": 7.0,
+            "widthkey": 4.0,
+            "DoorCount": 1,
+            "WindowCount": 3,
+            "OpeningArea": 8.992,
+            "ObjectCount": 106,
+            "ObjectVolume": 3.513,
+            "AreaAfterOpenings": 62.396,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}

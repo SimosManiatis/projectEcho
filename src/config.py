@@ -11,11 +11,11 @@ from torch.jit import TracerWarning
 # ──────────────────────────────────────────────────────────────────────────────
 # Paths
 # ──────────────────────────────────────────────────────────────────────────────
-JSON_FOLDER               = r"/home/simospc/projectEcho/dataset/training_validation"
-EXTRA_VALIDATION_FOLDER   = r"/home/simospc/projectEcho/dataset/EXTRA_VALIDATION_FOLDER"
-EXTRA_GROUND_TRUTH_FOLDER = r"/home/simospc/projectEcho/dataset/EXTRA_GROUND_TRUTH_FOLDER"
-VIZ_FOLDER                = r"/home/simospc/projectEcho/viz_folder"
-MODEL_SAVE_FOLDER         = r"/home/simospc/projectEcho"
+JSON_FOLDER               = "I:\GIT\projectEcho\dataset\training_validation"
+EXTRA_VALIDATION_FOLDER   = "I:\GIT\projectEcho\dataset\EXTRA_VALIDATION_FOLDER"
+EXTRA_GROUND_TRUTH_FOLDER = "I:\GIT\projectEcho\dataset\EXTRA_GROUND_TRUTH_FOLDER"
+VIZ_FOLDER                = "I:\GIT\projectEcho\src\viz_folder"
+MODEL_SAVE_FOLDER         = "I:\GIT\projectEcho\src\trained_model"
 
 # ──────────────────────────────────────────────────────────────────────────────
 # Training flags

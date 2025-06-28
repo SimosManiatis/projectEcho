@@ -1,0 +1,22 @@
+{
+    "design_id": "design_247",
+    "nodes": [
+        {
+            "NodeID": "design_247_brep_0068",
+            "length_m": 3.814,
+            "width_m": 3.204,
+            "lengthkey": 5.5,
+            "widthkey": 4.5,
+            "DoorCount": 0,
+            "WindowCount": 4,
+            "OpeningArea": 5.514,
+            "ObjectCount": 111,
+            "ObjectVolume": 3.443,
+            "AreaAfterOpenings": 63.21,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}

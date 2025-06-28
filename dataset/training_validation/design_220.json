@@ -1,0 +1,22 @@
+{
+    "design_id": "design_220",
+    "nodes": [
+        {
+            "NodeID": "design_220_brep_0041",
+            "length_m": 4.424,
+            "width_m": 2.748,
+            "lengthkey": 6.5,
+            "widthkey": 4.0,
+            "DoorCount": 1,
+            "WindowCount": 1,
+            "OpeningArea": 4.596,
+            "ObjectCount": 93,
+            "ObjectVolume": 3.2,
+            "AreaAfterOpenings": 64.973,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}

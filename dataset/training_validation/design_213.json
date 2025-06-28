@@ -1,0 +1,22 @@
+{
+    "design_id": "design_213",
+    "nodes": [
+        {
+            "NodeID": "design_213_brep_0034",
+            "length_m": 3.814,
+            "width_m": 2.748,
+            "lengthkey": 5.5,
+            "widthkey": 4.0,
+            "DoorCount": 1,
+            "WindowCount": 3,
+            "OpeningArea": 11.147,
+            "ObjectCount": 103,
+            "ObjectVolume": 3.192,
+            "AreaAfterOpenings": 51.221,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}

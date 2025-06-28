@@ -1,0 +1,22 @@
+{
+    "design_id": "design_338",
+    "nodes": [
+        {
+            "NodeID": "design_338_brep_0159",
+            "length_m": 4.578,
+            "width_m": 3.358,
+            "lengthkey": 7.0,
+            "widthkey": 5.0,
+            "DoorCount": 0,
+            "WindowCount": 0,
+            "OpeningArea": 0.0,
+            "ObjectCount": 85,
+            "ObjectVolume": 3.382,
+            "AreaAfterOpenings": 80.822,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}

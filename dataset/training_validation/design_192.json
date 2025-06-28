@@ -1,0 +1,22 @@
+{
+    "design_id": "design_192",
+    "nodes": [
+        {
+            "NodeID": "design_192_brep_0013",
+            "length_m": 3.814,
+            "width_m": 2.748,
+            "lengthkey": 5.5,
+            "widthkey": 4.0,
+            "DoorCount": 1,
+            "WindowCount": 2,
+            "OpeningArea": 6.85,
+            "ObjectCount": 96,
+            "ObjectVolume": 3.034,
+            "AreaAfterOpenings": 55.518,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}

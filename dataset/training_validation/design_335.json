@@ -1,0 +1,22 @@
+{
+    "design_id": "design_335",
+    "nodes": [
+        {
+            "NodeID": "design_335_brep_0156",
+            "length_m": 4.578,
+            "width_m": 2.594,
+            "lengthkey": 7.0,
+            "widthkey": 3.5,
+            "DoorCount": 0,
+            "WindowCount": 0,
+            "OpeningArea": 0.0,
+            "ObjectCount": 78,
+            "ObjectVolume": 2.884,
+            "AreaAfterOpenings": 69.006,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}

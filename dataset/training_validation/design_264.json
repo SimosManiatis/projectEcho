@@ -1,0 +1,22 @@
+{
+    "design_id": "design_264",
+    "nodes": [
+        {
+            "NodeID": "design_264_brep_0085",
+            "length_m": 4.424,
+            "width_m": 3.204,
+            "lengthkey": 6.5,
+            "widthkey": 4.5,
+            "DoorCount": 1,
+            "WindowCount": 1,
+            "OpeningArea": 4.046,
+            "ObjectCount": 104,
+            "ObjectVolume": 3.597,
+            "AreaAfterOpenings": 72.436,
+            "SideIntersectionArea": 0.0,
+            "connectivity": [],
+            "Level": 0,
+            "total_modules": 1
+        }
+    ]
+}
